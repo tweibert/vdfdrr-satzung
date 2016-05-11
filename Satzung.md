@@ -1,6 +1,5 @@
-Muster: Satzung eines gemeinnützigen Vereins
-
 § 1 (Name und Sitz)
+===================
 
 Der Verein führt den Namen ____________________.
 
@@ -9,10 +8,12 @@ Er soll in das Vereinsregister eingetragen werden und trägt dann den Zusatz "e.
 Der Sitz des Vereins ist ____________________.
 
 § 2 (Geschäftsjahr)
+===================
 
 Geschäftsjahr ist das Kalenderjahr.
 
 § 3 (Zweck des Vereins)
+=======================
 
 Der Verein verfolgt ausschließlich und unmittelbar - gemeinnützige - mildtätige - kirchliche - Zwecke (nicht verfolgte Zwecke streichen) im Sinne des Abschnitts "Steuerbegünstigte Zwecke" der Abgabenordnung.
 
@@ -21,18 +22,22 @@ Zweck des Vereins ist … (z. B. die Förderung von Wissenschaft und Forschung, 
 Der Satzungszweck wird verwirklicht insbesondere durch (z. B. Durchführung wissenschaftlicher Veranstaltungen und Forschungsvorhaben, Vergabe von Forschungsaufträgen, Unterhaltung einer Schule, einer Erziehungsberatungsstelle, Pflege von Kunstsammlungen, Pflege des Liedgutes und des Chorgesanges, Errichtung von Naturschutzgebieten, Unterhaltung eines Kindergartens, Kinder-, Jugendheimes, Unterhaltung eines Altenheimes, eines Erholungsheimes, Bekämpfung des Drogenmissbrauchs, des Lärms, Förderung sportlicher Übungen und Leistungen).
 
 § 4 (Selbstlose Tätigkeit)
+==========================
 
 Der Verein ist selbstlos tätig; er verfolgt nicht in erster Linie eigenwirtschaftliche Zwecke.
 
 § 5 (Mittelverwendung)
+======================
 
 Mittel des Vereins dürfen nur für die satzungsmäßigen Zwecke verwendet werden. Die Mitglieder erhalten keine Zuwendungen aus Mitteln des Vereins.
 
 § 6 (Verbot von Begünstigungen)
+===============================
 
 Es darf keine Person durch Ausgaben, die dem Zweck der Körperschaft fremd sind, oder durch unverhältnismäßig hohe Vergütungen begünstigt werden.
 
 § 7 (Erwerb der Mitgliedschaft)
+===============================
 
 Vereinsmitglieder können natürliche Personen oder juristische Personen werden.
 
@@ -43,6 +48,7 @@ Der Aufnahmeantrag ist schriftlich zu stellen.
 Gegen die Ablehnung, die keiner Begründung bedarf, steht dem/der Bewerber/in die Berufung an die Mitgliederversammlung zu, welche dann endgültig entscheidet.
 
 § 8 (Beendigung der Mitgliedschaft)
+===================================
 
 Die Mitgliedschaft endet durch Austritt, Ausschluss, Tod oder Auflösung der juristischen Person.
 
@@ -51,18 +57,20 @@ Der Austritt erfolgt durch schriftliche Erklärung gegenüber einem vertretungsb
 Ein Ausschluss kann nur aus wichtigem Grund erfolgen. Wichtige Gründe sind insbesondere ein die Vereinsziele schädigendes Verhalten, die Verletzung satzungsmäßiger Pflichten oder Beitragsrückstände von mindestens einem Jahr. Über den Ausschluss entscheidet der Vorstand. Gegen den Ausschluss steht dem Mitglied die Berufung an die Mitgliederversammlung zu, die schriftlich binnen eines Monats an den Vorstand zu richten ist. Die Mitgliederversammlung entscheidet im Rahmen des Vereins endgültig. Dem Mitglied bleibt die Überprüfung der Maßnahme durch Anrufung der ordentlichen Gerichte vorbehalten. Die Anrufung eines ordentlichen Gerichts hat aufschiebende Wirkung bis zur Rechtskraft der gerichtlichen Entscheidung.
 
 § 9 (Beiträge)
+==============
 
 Von den Mitgliedern werden Beiträge erhoben. Die Höhe der Beiträge und deren Fälligkeit bestimmt die Mitgliederversammlung.
 
 § 10 (Organe des Vereins)
+=========================
 
 Organe des Vereins sind
 
-die Mitgliederversammlung
-
-der Vorstand.
+  * die Mitgliederversammlung,
+  * der Vorstand.
 
 § 11 (Mitgliederversammlung)
+============================
 
 Die Mitgliederversammlung ist das oberste Vereinsorgan. Zu ihren Aufgaben gehören insbesondere die Wahl und Abwahl des Vorstands, Entlastung des Vorstands, Entgegennahme der Berichte des Vorstandes, Wahl der Kassenprüfern/innen Festsetzung von Beiträgen und deren Fälligkeit, Beschlussfassung über die Änderung der Satzung, Beschlussfassung über die Auflösung des Vereins, Entscheidung über Aufnahme und Ausschluss von Mitgliedern in Berufungsfällen sowie weitere Aufgaben, soweit sich diese aus der Satzung oder nach dem Gesetz ergeben.
 
@@ -93,6 +101,7 @@ Stimmenthaltungen und ungültige Stimmen bleiben außer Betracht.
 Über die Beschlüsse der Mitgliederversammlung ist ein Protokoll anzufertigen, das vom Versammlungsleiter und dem Schriftführer zu unterzeichnen ist.
 
 § 12 (Vorstand)
+===============
 
 Der Vorstand im Sinn des § 26 BGB besteht aus dem/der 1. und 2. Vorsitzenden und dem/der Kassierer/in. Sie vertreten den Verein gerichtlich und außergerichtlich. Zwei Vorstandsmitglieder vertreten gemeinsam.
 
@@ -107,6 +116,7 @@ Der Vorstand bleibt solange im Amt, bis ein neuer Vorstand gewählt ist.
 Bei Beendigung der Mitgliedschaft im Verein endet auch das Amt als Vorstand.
 
 § 13 (Kassenprüfung)
+====================
 
 Die Mitgliederversammlung wählt für die Dauer von einem Jahr eine/n Kassenprüfer/in.
 
@@ -115,6 +125,7 @@ Diese/r darf nicht Mitglied des Vorstands sein.
 Wiederwahl ist zulässig.
 
 § 14 (Auflösung des Vereins)
+============================
 
 Bei Auflösung oder Aufhebung des Vereins oder bei Wegfall steuerbegünstigter Zwecke fällt das Vermögen des Vereins
 
