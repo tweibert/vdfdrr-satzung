@@ -1,11 +1,11 @@
 § 1 (Name und Sitz)
 ===================
 
-Der Verein führt den Namen ____________________.
+Der Verein führt den Namen "Verein der Freunde der Ruderriege am Max-Planck-Gymnasium Dortmund".
 
 Er soll in das Vereinsregister eingetragen werden und trägt dann den Zusatz "e.V."
 
-Der Sitz des Vereins ist ____________________.
+Der Sitz des Vereins ist Dortmund.
 
 § 2 (Geschäftsjahr)
 ===================
@@ -15,11 +15,15 @@ Geschäftsjahr ist das Kalenderjahr.
 § 3 (Zweck des Vereins)
 =======================
 
-Der Verein verfolgt ausschließlich und unmittelbar - gemeinnützige - mildtätige - kirchliche - Zwecke (nicht verfolgte Zwecke streichen) im Sinne des Abschnitts "Steuerbegünstigte Zwecke" der Abgabenordnung.
+Der Verein verfolgt ausschließlich und unmittelbar gemeinnützige Zwecke im Sinne des Abschnitts "Steuerbegünstigte Zwecke" der Abgabenordnung.
 
-Zweck des Vereins ist … (z. B. die Förderung von Wissenschaft und Forschung, Jugend- und Altenhilfe, Erziehung, Volks- und Berufsbildung, Kunst und Kultur, Landschaftspflege, Umweltschutz, des öffentlichen Gesundheitswesens, des Sports, Unterstützung hilfsbedürftiger Personen).
+Zweck des Vereins ist die Förderung des Sports.
 
-Der Satzungszweck wird verwirklicht insbesondere durch (z. B. Durchführung wissenschaftlicher Veranstaltungen und Forschungsvorhaben, Vergabe von Forschungsaufträgen, Unterhaltung einer Schule, einer Erziehungsberatungsstelle, Pflege von Kunstsammlungen, Pflege des Liedgutes und des Chorgesanges, Errichtung von Naturschutzgebieten, Unterhaltung eines Kindergartens, Kinder-, Jugendheimes, Unterhaltung eines Altenheimes, eines Erholungsheimes, Bekämpfung des Drogenmissbrauchs, des Lärms, Förderung sportlicher Übungen und Leistungen).
+Der Satzungszweck wird verwirklicht insbesondere durch Förderung der Ruderriege von 1899 am Max-Planck-Gymnasium Dortmund ("Ruderriege") in Hinblick auf
+
+  * Förderung sportlicher Übungen und Leistungen,
+  * Beschaffung von Ruderbooten und anderen Sportgeräten,
+  * Bereitstellung von Mitteln zur Unterstützung von Jungen und Mädchen bei der Durchführung sportlicher Tätigkeiten (Regatten, Ruderlager und dergleichen).
 
 § 4 (Selbstlose Tätigkeit)
 ==========================
@@ -66,7 +70,7 @@ Von den Mitgliedern werden Beiträge erhoben. Die Höhe der Beiträge und deren 
 
 Organe des Vereins sind
 
-  * die Mitgliederversammlung,
+  * die Mitgliederversammlung
   * der Vorstand.
 
 § 11 (Mitgliederversammlung)
@@ -103,9 +107,9 @@ Stimmenthaltungen und ungültige Stimmen bleiben außer Betracht.
 § 12 (Vorstand)
 ===============
 
-Der Vorstand im Sinn des § 26 BGB besteht aus dem/der 1. und 2. Vorsitzenden und dem/der Kassierer/in. Sie vertreten den Verein gerichtlich und außergerichtlich. Zwei Vorstandsmitglieder vertreten gemeinsam.
+Der Vorstand im Sinn des § 26 BGB besteht aus dem/der 1. und 2. Vorsitzenden, dem/der Schriftführer/in und dem/der Kassierer/in. Sie vertreten den Verein gerichtlich und außergerichtlich. Zwei Vorstandsmitglieder vertreten gemeinsam.
 
-Der Vorstand wird von der Mitgliederversammlung auf die Dauer von einem Jahr gewählt.
+Der Vorstand wird von der Mitgliederversammlung auf die Dauer von zwei Jahren gewählt.
 
 Vorstandsmitglieder können nur Mitglieder des Vereins werden.
 
@@ -133,5 +137,5 @@ an - den - die - das - (Bezeichnung einer juristischen Person des öffentlichen 
 
 an eine juristische Person des öffentlichen Rechts oder eine andere steuerbegünstigte Körperschaft zwecks Verwendung für (Angabe eines bestimmten gemeinnützigen, mildtätigen oder kirchlichen Zwecks, z. B. Förderung von Wissenschaft und Forschung, Erziehung, Volks- und Berufsbildung, der Unterstützung von Personen, die im Sinne von § 53 der Abgabenordnung wegen bedürftig sind, Unterhaltung des Gotteshauses in ).
 
-Ort, Datum
+Dortmund, xx.xx.2016
 
