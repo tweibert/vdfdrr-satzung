@@ -137,5 +137,12 @@ an - den - die - das - (Bezeichnung einer juristischen Person des öffentlichen 
 
 an eine juristische Person des öffentlichen Rechts oder eine andere steuerbegünstigte Körperschaft zwecks Verwendung für (Angabe eines bestimmten gemeinnützigen, mildtätigen oder kirchlichen Zwecks, z. B. Förderung von Wissenschaft und Forschung, Erziehung, Volks- und Berufsbildung, der Unterstützung von Personen, die im Sinne von § 53 der Abgabenordnung wegen bedürftig sind, Unterhaltung des Gotteshauses in ).
 
+§ 15 (Schlussbestimmungen)
+==========================
+
+Die am 6. Oktober 1997 beschlossene Satzung wird durch die vorliegende neue Fassung ersetzt.
+
+Diese Fassung der Satzung tritt am Trage der Eintragung in das Vereinsregister in Kraft.
+
 Dortmund, xx.xx.2016
 
