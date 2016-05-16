@@ -19,7 +19,7 @@ Der Verein verfolgt ausschließlich und unmittelbar gemeinnützige Zwecke im Sin
 
 Zweck des Vereins ist die Förderung des Sports.
 
-Der Satzungszweck wird verwirklicht insbesondere durch Förderung der Ruderriege von 1899 am Max-Planck-Gymnasium Dortmund ("Ruderriege") in Hinblick auf
+Der Satzungszweck wird verwirklicht insbesondere durch Förderung der Ruderriege von 1899 am Max-Planck-Gymnasium Dortmund in Hinblick auf
 
   * Förderung sportlicher Übungen und Leistungen,
   * Beschaffung von Ruderbooten und anderen Sportgeräten,
