@@ -131,11 +131,7 @@ Wiederwahl ist zulässig.
 § 14 (Auflösung des Vereins)
 ============================
 
-Bei Auflösung oder Aufhebung des Vereins oder bei Wegfall steuerbegünstigter Zwecke fällt das Vermögen des Vereins
-
-an - den - die - das - (Bezeichnung einer juristischen Person des öffentlichen Rechts oder einer anderen steuerbegünstigten Körperschaft), - der - die - das - es unmittelbar und ausschließlich für gemeinnützige, mildtätige oder kirchliche Zwecke zu verwenden hat. oder
-
-an eine juristische Person des öffentlichen Rechts oder eine andere steuerbegünstigte Körperschaft zwecks Verwendung für (Angabe eines bestimmten gemeinnützigen, mildtätigen oder kirchlichen Zwecks, z. B. Förderung von Wissenschaft und Forschung, Erziehung, Volks- und Berufsbildung, der Unterstützung von Personen, die im Sinne von § 53 der Abgabenordnung wegen bedürftig sind, Unterhaltung des Gotteshauses in ).
+Bei Auflösung oder Aufhebung des Vereins oder bei Wegfall steuerbegünstigter Zwecke fällt das Vermögen des Vereins an eine juristische Person des öffentlichen Rechts oder eine andere steuerbegünstigte Körperschaft zwecks Verwendung für die Förderung des Rudersports in Dortmund.
 
 § 15 (Schlussbestimmungen)
 ==========================
