@@ -70,7 +70,7 @@ Von den Mitgliedern werden Beiträge erhoben. Die Höhe der Beiträge und deren 
 
 Organe des Vereins sind
 
-  * die Mitgliederversammlung
+  * die Mitgliederversammlung,
   * der Vorstand.
 
 § 11 (Mitgliederversammlung)
