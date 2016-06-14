@@ -122,7 +122,7 @@ Bei Beendigung der Mitgliedschaft im Verein endet auch das Amt als Vorstand.
 § 13 (Kassenprüfung)
 ====================
 
-Die Mitgliederversammlung wählt für die Dauer von einem Jahr eine/n Kassenprüfer/in.
+Die Mitgliederversammlung wählt für die Dauer von zwei Jahren eine/n Kassenprüfer/in.
 
 Diese/r darf nicht Mitglied des Vorstands sein.
 
