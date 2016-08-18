@@ -140,5 +140,5 @@ Die am 6. Oktober 1997 beschlossene Satzung wird durch die vorliegende neue Fass
 
 Diese Fassung der Satzung tritt am Trage der Eintragung in das Vereinsregister in Kraft.
 
-Dortmund, xx.xx.2016
+Dortmund, 18.08.2016
 
