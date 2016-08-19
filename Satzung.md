@@ -1,7 +1,7 @@
 § 1 (Name und Sitz)
 ===================
 
-Der Verein führt den Namen "Verein der Freunde der Ruderriege am Max-Planck-Gymnasium Dortmund".
+Der Verein führt den Namen "Verein der Freunde der Ruderriege am Max-Planck-Gymnasium".
 
 Er soll in das Vereinsregister eingetragen werden und trägt dann den Zusatz "e.V."
 
@@ -92,7 +92,7 @@ Die Mitgliederversammlung ist ohne Rücksicht auf die Zahl der erschienenen Mitg
 
 Die Mitgliederversammlung wird von einem Vorstandsmitglied geleitet.
 
-Zu Beginn der Mitgliederversammlung ist ein Schriftführer zu wählen.
+Zu Beginn der Mitgliederversammlung ist ein/e Protokollant/in zu wählen.
 
 Jedes Mitglied hat eine Stimme. Das Stimmrecht kann nur persönlich oder für ein Mitglied unter Vorlage einer schriftlichen Vollmacht ausgeübt werden.
 
@@ -138,7 +138,7 @@ Bei Auflösung oder Aufhebung des Vereins oder bei Wegfall steuerbegünstigter Z
 
 Die am 6. Oktober 1997 beschlossene Satzung wird durch die vorliegende neue Fassung ersetzt.
 
-Diese Fassung der Satzung tritt am Trage der Eintragung in das Vereinsregister in Kraft.
+Diese Fassung der Satzung tritt am Tage der Eintragung in das Vereinsregister in Kraft.
 
 Dortmund, 18.08.2016
 
