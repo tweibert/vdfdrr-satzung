@@ -1,7 +1,7 @@
 § 1 (Name und Sitz)
 ===================
 
-Der Verein führt den Namen "Verein der Freunde der Ruderriege am Max-Planck-Gymnasium".
+Der Verein führt den Namen "Verein der Freunde der Ruderriege von 1899 am Max-Planck-Gymnasium zu Dortmund".
 
 Er soll in das Vereinsregister eingetragen werden und trägt dann den Zusatz "e.V."
 
